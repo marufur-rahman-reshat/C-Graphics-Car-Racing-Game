@@ -77,7 +77,6 @@ A top-down 2D car racing game built with **C++ and OpenGL/GLUT** as a Computer G
 
 **1. Clone the repository:**
 ```bash
-git clone https://github.com/YOUR_USERNAME/Car-Racing-Game-OpenGL.git
 ```
 
 **2. Open CodeBlocks**
